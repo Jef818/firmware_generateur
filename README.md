@@ -14,4 +14,5 @@ Le firmware VESC est un programme de contrôle moteur open source, logiciel libr
 
 Site internet des projets :
 [https://vesc-project.com/](https://vesc-project.com/)
+
 [http://www.chibios.org/dokuwiki/doku.php](http://www.chibios.org/dokuwiki/doku.php)
