@@ -12,3 +12,5 @@ Site internet des projets :
 [https://vesc-project.com/](https://vesc-project.com/)
 
 [http://www.chibios.org/dokuwiki/doku.php](http://www.chibios.org/dokuwiki/doku.php)
+
+#Mode d'emploi :
