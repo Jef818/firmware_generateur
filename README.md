@@ -1,4 +1,4 @@
-# Ce code est basé sur le firmware VESC, logiciel libre sous licence GNU GPL v3
+# Ce code est basé sur le firmware VESC et sur le rtOS ChibiOS, logiciels libres
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![Travis CI Status](https://travis-ci.com/vedderb/bldc.svg?branch=master)](https://travis-ci.com/vedderb/bldc)
@@ -8,7 +8,9 @@
 [![Stars](https://img.shields.io/github/stars/vedderb/bldc.svg)](https://github.com/vedderb/bldc/stargazers)
 [![Forks](https://img.shields.io/github/forks/vedderb/bldc.svg)](https://github.com/vedderb/bldc/network/members)
 
-Il s'agit d'un firmware de contrôle moteur open source
+Le rtOS ChibiOS et un système d'exploitation temps réel open source sous licence sous licence GNU GPL v3
+Le firmware VESC est un programme de contrôle moteur open source, logiciel libre sous licence GNU GPL v3
 
-Site internet du projet :
+Site internet des projets :
 [https://vesc-project.com/](https://vesc-project.com/)
+[http://www.chibios.org/dokuwiki/doku.php](http://www.chibios.org/dokuwiki/doku.php)
