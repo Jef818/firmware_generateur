@@ -9,6 +9,7 @@
 [![Forks](https://img.shields.io/github/forks/vedderb/bldc.svg)](https://github.com/vedderb/bldc/network/members)
 
 Le rtOS ChibiOS et un système d'exploitation temps réel open source sous licence sous licence GNU GPL v3
+
 Le firmware VESC est un programme de contrôle moteur open source, logiciel libre sous licence GNU GPL v3
 
 Site internet des projets :
